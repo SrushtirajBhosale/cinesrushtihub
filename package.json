@@ -1,8 +1,8 @@
 {
+  "homepage": "https://SrushtirajBhosale.github.io/cinesrushtihub",
   "name": "cinesrushti_hub",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SrushtirajBhosale.github.io/cinesrushtihub",
   "dependencies": {
     "@emotion/react": "^11.10.8",
     "@emotion/styled": "^11.10.8",
