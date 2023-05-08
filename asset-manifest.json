@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cinesrushtihub/static/css/main.fac63aad.css",
-    "main.js": "/cinesrushtihub/static/js/main.00631b7f.js",
+    "main.js": "/cinesrushtihub/static/js/main.e2a7ac52.js",
     "static/js/787.afc74bc0.chunk.js": "/cinesrushtihub/static/js/787.afc74bc0.chunk.js",
     "index.html": "/cinesrushtihub/index.html",
     "main.fac63aad.css.map": "/cinesrushtihub/static/css/main.fac63aad.css.map",
-    "main.00631b7f.js.map": "/cinesrushtihub/static/js/main.00631b7f.js.map",
+    "main.e2a7ac52.js.map": "/cinesrushtihub/static/js/main.e2a7ac52.js.map",
     "787.afc74bc0.chunk.js.map": "/cinesrushtihub/static/js/787.afc74bc0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fac63aad.css",
-    "static/js/main.00631b7f.js"
+    "static/js/main.e2a7ac52.js"
   ]
 }
