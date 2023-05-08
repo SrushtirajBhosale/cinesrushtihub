@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, HashRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
 import Header from './components/Header/Header';
 import SimpleBottomNavigation from './components/MainNav';
@@ -10,7 +10,7 @@ import { Container } from '@mui/material';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Header />
         <div className="app">
           <Container>
@@ -23,7 +23,7 @@ function App() {
           </Container>
         </div>
       < SimpleBottomNavigation />
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
