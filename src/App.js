@@ -1,4 +1,4 @@
-import { BrowserRouter, HashRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
 import Header from './components/Header/Header';
 import SimpleBottomNavigation from './components/MainNav';
@@ -16,7 +16,7 @@ function App() {
           <Container>
             <Routes>
               <Route path='/' element={<Trending />} />
-              <Route path='/movies' element={<Movies />} />
+              <Route path='/movies' exact element={<Movies />} />
               <Route path='/series' element={<Series />} />
               <Route path='/search' element={<Search />} />
             </Routes>
