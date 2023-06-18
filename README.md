@@ -1,5 +1,11 @@
 <h1 align="center">CINESRUSHTI</h1>
 
+<h3 align="center">
+Live Application🚀
+<br>
+<a href="https://SrushtirajBhosale.github.io/cinesrushtihub">CineSrushti🚀</a>
+</h3>
+
 <h2>
   A movies & Tv series App in <em> React JS, Material UI & MovieDB API </em> for fetching data.
 </h2>
@@ -16,7 +22,3 @@
   Fully responsive according to diff diff screen sizes.
 </h4>
 
-<h3 align="center">
-Live Application 
-<a href="https://SrushtirajBhosale.github.io/cinesrushtihub">CineSrushti🚀</a>
-</h3>
