@@ -1,7 +1,7 @@
 <h1 align="center">CINESRUSHTI</h1>
 
 <h3 align="center">
-Live Application🚀
+Live Application
 <br>
 <a href="https://SrushtirajBhosale.github.io/cinesrushtihub">CineSrushti🚀</a>
 </h3>
