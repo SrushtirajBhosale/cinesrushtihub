@@ -3,7 +3,7 @@
 <h3 align="center">
 Live Application
 <br>
-<a href="https://SrushtirajBhosale.github.io/cinesrushtihub">CineSrushti🚀</a>
+<a href="https://SrushtirajBhosale.github.io/cinesrushtihub" target="_blank">CineSrushti🚀</a>
 </h3>
 
 <h2>
